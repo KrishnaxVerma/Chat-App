@@ -1,4 +1,4 @@
-export const baseUrl = "https://chat-app-b5qf.onrender.com/api" ;//server url where we send request to server from client 
+export const baseUrl = "https://chat-app-0lqk.onrender.com/api" ;//server url where we send request to server from client 
 
 export const postRequest = async(url, body) => {//posting request to server from client 
     console.log("body", body);
